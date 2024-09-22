@@ -11,3 +11,5 @@
 6.[https://github.com/2303A52083/2303A52083-23CSBTB39-40-SML/blob/main/SML6.ipynb]
 
 7.[https://github.com/2303A52083/2303A52083-23CSBTB39-40-SML/blob/main/SML7.ipynb]
+
+8.[https://github.com/2303A52083/2303A52083-23CSBTB39-40-SML/blob/main/SML8.ipynb]
